@@ -1,12 +1,18 @@
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+ A full-stack web application built with React and Node.js that allows users to search and explore 
+ real-world problem statements and their solutions based on Sanatan Dharam Books. It connects to 
+ a MongoDB Atlas cloud database for storing and retrieving content dynamically.
+ 
+ Key Features:
+🔍 Search Functionality — Users can search through a database of problems using keywords.
 
-Currently, two official plugins are available:
+📦 MongoDB Atlas Integration — Efficient cloud-based storage for scalable and fast access.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+🧩 Modular React Components — Clean, reusable UI components for better development flow.
 
-## Expanding the ESLint configuration
+🚀 Hosted on Netlify & Render — Seamless deployment with CI/CD pipelines for frontend and backend.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+🔒 Secure API Integration — Node.js + Express backend connected securely with MongoDB Atlas.
+
+🎨 Responsive UI — Built using modern CSS, optimized for both desktop and mobile.
+
