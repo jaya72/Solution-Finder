@@ -16,3 +16,13 @@
 
 🎨 Responsive UI — Built using modern CSS, optimized for both desktop and mobile.
 
+Tech Stack:
+Frontend: React, JavaScript, JSX, 
+
+Backend: Node.js, Express.js
+
+Database: MongoDB Atlas (Cloud DB)
+
+Hosting: Netlify (frontend), Render/Railway (backend)
+
+Version Control: Git + GitHub
