@@ -6,22 +6,22 @@
  Key Features:
 🔍 Search Functionality — Users can search through a database of problems using keywords.
 
-📦 MongoDB Atlas Integration — Efficient cloud-based storage for scalable and fast access.
+Cheroma Db for vector search 
 
 🧩 Modular React Components — Clean, reusable UI components for better development flow.
 
 🚀 Hosted on Netlify & Render — Seamless deployment with CI/CD pipelines for frontend and backend.
 
-🔒 Secure API Integration — Node.js + Express backend connected securely with MongoDB Atlas.
+🔒 Secure API Integration — Node.js + Express backend connected securely with Chroma DB
 
 🎨 Responsive UI — Built using modern CSS, optimized for both desktop and mobile.
 
 Tech Stack:
 Frontend: React, JavaScript, JSX, 
 
-Backend: Node.js, Express.js
+Backend: Node.js, python
 
-Database: MongoDB Atlas (Cloud DB)
+Database: Chroma DB
 
 Hosting: Netlify (frontend), Render/Railway (backend)
 
